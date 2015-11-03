@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tydic.labourerscommunication</string>
+				<string>com.tydic.yangzibank.salesmanager</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
